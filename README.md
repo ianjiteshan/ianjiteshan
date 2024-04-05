@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ianjiteshan
-- 👀 I’m interested in Coding and Backend development
+- 👀 I’m interested in MERN dev
 - 🌱 I’m currently learning python and java
 
 
