@@ -1,8 +1,8 @@
-👋 Hi, I’m Anjitesh
+# 👋 Hi, I’m Anjitesh 
 -  👀 I’m interested in MERN dev
 - 🌱 I’m currently learning python and java
 I love to network, join new communities and add value ✨
-# Hi, I'm Tayyaba Tabassum 
+
 
 <pre>
                                   ___           ___           ___       ___       ___     
