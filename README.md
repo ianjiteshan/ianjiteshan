@@ -1,8 +1,7 @@
 <h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Anjitesh Shandilya</h1>
--  👀 I’m interested in MERN dev
-- 🌱 I’m currently learning python and java
+-  👀 I’m interested in full stack dev
+- 🌱 I’m currently learning GenAI, Reactjs
 -  I love to network, join new communities and add value ✨
-
 
 <pre>
                                   ___           ___           ___       ___       ___     
