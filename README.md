@@ -24,7 +24,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ianjiteshan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ianjiteshan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ianjiteshan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ianjiteshan) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ianjiteshan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ianjiteshan) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ianjiteshan) 
+![](https://komarev.com/ghpvc/?username=ianjiteshan)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ianjiteshan&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
