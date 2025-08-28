@@ -65,3 +65,6 @@ Obsidian Markdown
 <a href="https://github.com/ianjiteshan">
     <img src="https://ghchart.rshah.org/ianjiteshan" alt="ianjiteshan's GitHub Contribution Chart">
 </a>
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/ianjiteshan/ianjiteshan/main/assets/bar_graph.png)
