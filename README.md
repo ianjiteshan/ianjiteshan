@@ -1,7 +1,12 @@
 <h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Anjitesh Shandilya</h1>
-<br>-  👀 I’m interested in full stack dev
-<br>- 🌱 I’m currently learning GenAI, Reactjs
-<br>-  I love to network, join new communities and add value ✨
+
+- 🌱 Currently focusing on GenAI and Data Structures & Algorithms in C++ to strengthen my problem-solving skills.
+- 💻 Experienced in Full-Stack Web Development and DevOps.
+- 📧 Feel free to reach out: anjiteshshandilya@gmail.com.
+- 📚 Pursuing B.Tech at USICT.
+- 🚀 Enthusiastically contributing to open-source projects and exploring cloud technologies to build smarter solutions.
+<br>
+I love to network, join new communities and add value ✨
 
 <pre>
                                   ___           ___           ___       ___       ___     
@@ -65,6 +70,4 @@ Obsidian Markdown
 <a href="https://github.com/ianjiteshan">
     <img src="https://ghchart.rshah.org/ianjiteshan" alt="ianjiteshan's GitHub Contribution Chart">
 </a>
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/ianjiteshan/ianjiteshan/main/assets/bar_graph.png)
