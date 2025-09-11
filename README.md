@@ -1,6 +1,6 @@
 <h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Anjitesh Shandilya</h1>
 
-- 🌱 Currently focusing on GenAI and Data Structures & Algorithms in C++ to strengthen my problem-solving skills.
+- 🌱 Currently focusing on GenAI and Data Structures & Algorithms in JAVA to strengthen my problem-solving skills.
 - 💻 Experienced in Full-Stack Web Development and DevOps.
 - 📧 Feel free to reach out: anjiteshshandilya@gmail.com.
 - 📚 Pursuing B.Tech at USICT.
