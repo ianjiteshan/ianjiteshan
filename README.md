@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ianjiteshan) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ianjiteshan) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]( https://www.youtube.com/channel/UC-LzryGAI5eYEWWWDFce7lQ)
-![GitHub Org's stars](https://img.shields.io/github/stars/:org)
+![GitHub Org's Stars](https://img.shields.io/github/stars/ianjiteshan)
 ![](https://komarev.com/ghpvc/?username=ianjiteshan)
 
 
