@@ -2,7 +2,7 @@
 
 - 🌱 Currently focusing on GenAI and Data Structures & Algorithms in JAVA to strengthen my problem-solving skills.
 - 💻 Experienced in Full-Stack Web Development and DevOps.
-- 📧 Feel free to reach out: anjiteshshandilya@gmail.com.
+- 📧 Feel free to reach out: anjiteshshandilya@gmail.com
 - 📚 Pursuing B.Tech at USICT.
 - 🚀 Enthusiastically contributing to open-source projects and exploring cloud technologies to build smarter solutions.
 <br>
